@@ -58,7 +58,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url('http://i.telegraph.co.uk/multimedia/archive/02625/mountain1_2625884k.jpg');
+  background-image: url('../images/cover.jpg');
   background-size: cover; }
 
 @media screen and (min-width: 64em) {
